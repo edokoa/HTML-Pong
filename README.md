@@ -2,8 +2,11 @@ HTML Pong v0.1
 ==============
 
 *Author:* edokoa
+
 *Website:* www.edokoa.com
+
 *Contact:* hello@edokoa.com
+
 
 This code is made with educational purposes and is licensed under a CREATIVE COMMONS: BY-NC-SA license.
 
