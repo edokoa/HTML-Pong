@@ -9,6 +9,8 @@ HTML Pong v0.1
 
 **Follow me on twitter:** @edokoa
 
+**Created:** November 13, 2012
+
 
 This is a quick protoype of Pong I coded in a couple of hours while travelling from Berlin to Prague to practice some JS. It was totally unplanned and started like a joke, so things got added in realtime as the code progressed. As result, there's a lot to fix and loose ends aimed to add features that didn't make it to the first version (but yet it works!).
 
